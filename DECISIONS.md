@@ -95,6 +95,8 @@
 - ✅ 바닥: LX 에디톤
 - ✅ 벽지: 디아망 회백크림 계열
 - ✅ 실링팬: **루씨에어 레이더3 실링팬 크롬다크코코아**
+
+<img src="https://static-store.lge.co.kr/goods/org/946/260618000232946.jpg?ah=1&aw=1&rh=800&rw=800" alt="루씨에어 레이더3 크롬다크코코아" width="420">
 - 제품정보: https://visrova.com/product/%EB%A3%A8%EC%94%A8%EC%97%90%EC%96%B4-%EB%A0%88%EC%9D%B4%EB%8D%943-%EC%8B%A4%EB%A7%81%ED%8C%AC-132cm-%ED%81%AC%EB%A1%AC%EB%8B%A4%ED%81%AC%EC%BD%94%EC%BD%94%EC%95%84-%EC%B2%9C%EC%9E%A5%ED%98%95-%EC%84%A0%ED%92%8D%EA%B8%B0/1822/?srsltid=AU7gw4XHSdVUDoSz20wggPCgT1RwYrq8zlZxd0l6SB-1cJeyEfl-Elms
 - ✅ TV 뒤 아트월: **코너만 살짝 라운드 처리**
 - ✅ 원처럼 크게 둥근 라운드 형태는 아님
@@ -128,9 +130,13 @@
 
 ## 싱크 / 수전
 - ✅ **한샘 무선 풋터치 절수페달 HRD-HS200WL/C** 사용 방향
+
+<img src="https://img.danuri.io/catalog-image/896/238/104/d3c3a75f98724e07afd627246930ee84.jpg?_v=20260825080545&shrink=330%3A%2A" alt="한샘 HRD-HS200WL/C 무선 풋터치 절수페달" width="420">
 - 참고: https://prod.danawa.com/info/?pcode=104238896
 - 🧾 라우체 피오 수전
 - 🧾 한샘 CGD84E 클린엠보 사각 싱크볼
+
+<img src="https://xn--or3bi2dnd588f.com/data/editor/2412/4b026d25b72c30ba2e3d33b8ce3fdcb1_1733814213_6573.jpg" alt="한샘 CGD84E 클린엠보 싱크볼 시공 이미지" width="420">
 - 한샘 참고: https://mall.hanssem.com/homeIdeaMain/contents/homeIdeaDetail.do?seq=28732
 - ⬜ 수전 본체와 싱크볼이 견적 사양 그대로 최종인지 확인 필요
 
@@ -143,8 +149,14 @@
 
 ### 인덕션 최종 후보
 1. ⬜ **삼성 CC99H63I1D**
+
+   <img src="https://images.samsung.com/kdp/goods/2026/05/04/a9713e5a-b7cc-4528-9f6f-2f28e292fa1b.png?%24Q90_1920_1280_F_JPG%24=" alt="삼성 CC99H63I1D" width="420">
 2. ⬜ **삼성 NZ63DB657CFE / NZ63DB657CFH**
+
+   <img src="https://images.samsung.com/kdp/goods/2024/04/23/6d625385-52c3-4d8e-8505-5a6ce493c63a.png?%24Q90_1920_1280_F_JPG%24=" alt="삼성 NZ63DB657CFE 대표 이미지" width="420">
 3. ⬜ **삼성 CC99H84JADS**
+
+   <img src="https://images.samsung.com/kdp/goods/2026/04/20/30303ee6-da6f-46af-8526-f62861891439.png?%24Q90_1920_1280_F_PNG%24=" alt="삼성 CC99H84JADS" width="420">
    - 공식: https://www.samsung.com/sec/electric-range/package-cc99h84jads-d2c/CC99H84JADS/
    - 지원/스펙: https://www.samsung.com/sec/support/model/CC99H84JAD/
 
@@ -194,6 +206,8 @@
 - 🧾 기존 중문 철거
 - 🧾 방화문 액세서리
 - ✅ 방문 손잡이: **도무스 511 니켈 무광**
+
+<img src="https://mania1318.cafe24.com/web/product/big/d_511ni_300.jpg" alt="도무스 511NI 니켈 방문손잡이" width="420">
 - 검색상 모델 표기: **511NI**
 - 참고: https://ohou.se/productions/feed?query=%EB%8F%84%EB%AC%B4%EC%8A%A4511&type=store
 - 🧾 욕실용 ABS 도어 2개
@@ -314,6 +328,8 @@
 
 ## 모델 / 사양
 - ✅ 모델명: **AJ072BN1PBC1**
+
+<img src="https://images.samsung.com/kdp/goods/2025/07/22/e3ed4184-e9d7-4d77-9639-23b98bc1ca2e.png?%24Q90_1920_1280_F_PNG%24=" alt="삼성 무풍 1Way AJ072BN1PBC1" width="420">
 - ✅ 정격냉방: **7.2kW**
 - ✅ 운전 전류: **0.35A**
 
