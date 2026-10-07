@@ -148,12 +148,6 @@
 2. ⬜ **삼성 NZ63DB657CFE / NZ63DB657CFH**
 
    <img src="https://images.samsung.com/kdp/goods/2024/04/23/6d625385-52c3-4d8e-8505-5a6ce493c63a.png?%24Q90_1920_1280_F_JPG%24=" alt="삼성 NZ63DB657CFE 대표 이미지" width="420">
-3. ⬜ **삼성 CC99H84JADS**
-
-   <img src="https://images.samsung.com/kdp/goods/2026/04/20/30303ee6-da6f-46af-8526-f62861891439.png?%24Q90_1920_1280_F_PNG%24=" alt="삼성 CC99H84JADS" width="420">
-   - 공식: https://www.samsung.com/sec/electric-range/package-cc99h84jads-d2c/CC99H84JADS/
-   - 지원/스펙: https://www.samsung.com/sec/support/model/CC99H84JAD/
-
 - LG 후보는 제외
 
 ---
@@ -362,7 +356,6 @@
 - [ ] **인덕션 최종안**
   - 삼성 CC99H63I1D
   - 삼성 NZ63DB657CFE / NZ63DB657CFH
-  - 삼성 CC99H84JADS
   - 설치 위치: **거실에서 주방을 봤을 때 우측 구석**
   - 좌측 구석 코너장 간섭 회피
   - 하단부 수도계량기 위치 변경 반영
