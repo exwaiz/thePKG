@@ -32,6 +32,9 @@
 ## 바닥
 - ✅ 기존 마루 45평 철거 **(완료)** + 바닥 샌딩
 - ✅ **LX Z:IN 에디톤 스톤 솔티 애쉬 (EDT-7724)** 확정
+
+<img src="https://octapi.lxzin.com/zinPrd/img01/202607/10/2ad886e5-e300-4c2b-8636-5b87ac8a9540.jpg" alt="LX Z:IN 에디톤 스톤 솔티 애쉬 EDT-7724" width="420">
+
 - 🧾 견적: LX 에디톤 45평, 7,200,000원
 
 ## 벽지
@@ -50,6 +53,9 @@
 
 ## 수납
 - ✅ 한샘 안방 **시그니처 인피니 화이트 붙박이장**
+
+<img src="https://image.hanssem.com/hsimg/gds/Editor/2024/01/30/1706606355494_0.jpg" alt="한샘 시그니처 인피니 화이트 붙박이장" width="420">
+
 - ✅ 안방 팬트리 **행거 설치 (과장님 서비스)**
 
 ---
@@ -97,6 +103,8 @@
 
 - ✅ 우물천장: **코너만 원형 처리**
 
+<img src="https://prs.ohousecdn.com/apne2/content/uploads/cards/snapshots/v1-404460094611584.jpg?c=c&h=480&q=80&w=480" alt="코너만 라운드 처리된 우물천장 참고 이미지" width="420">
+
 ---
 
 # 6. 주방
@@ -121,9 +129,12 @@
 
 - 참고: https://prod.danawa.com/info/?pcode=104238896
 - 🧾 라우체 피오 수전
+
+<img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/721b/3bea44009f52ed1bcd55f4e0def915ef3eca384437d466c10cb1dfe6839a.jpg" alt="라우체 피오 수전" width="420">
+
 - 🧾 한샘 CGD84E 클린엠보 사각 싱크볼
 
-<img src="https://xn--or3bi2dnd588f.com/data/editor/2412/4b026d25b72c30ba2e3d33b8ce3fdcb1_1733814213_6573.jpg" alt="한샘 CGD84E 클린엠보 싱크볼 시공 이미지" width="420">
+<img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e475/482b313cd553a04de72d9fb1ebb844030af4c514039211442b34ce9b110d.jpg" alt="한샘 CGD84E 클린엠보 사각 싱크볼" width="420">
 
 - 한샘 참고: https://mall.hanssem.com/homeIdeaMain/contents/homeIdeaDetail.do?seq=28732
 
@@ -148,14 +159,22 @@
 # 7. 공용 욕실
 
 - ✅ 욕실건 설치 **(과장님 서비스)**
+
+<img src="https://m.e-nuovo.co.kr/web/product/big/202306/bdd4239da76567ff3936a822fe033b2e.jpg" alt="니켈 욕실건 참고 이미지" width="420">
 - ✅ 현관 + 공용욕실 + 안방욕실 **케라폭시 줄눈 추가 옵션: 2,000,000원**
 - ✅ **전체 철거** **(완료)**
 - ✅ **2차 방수**
 - ✅ 배수: **라인유가**
+
+<img src="https://cdn.shopify.com/s/files/1/0250/1767/9951/files/a07b903d0b58a79931cfdc305588491a_480x.jpg?v=1747898343" alt="욕실 라인유가 참고 이미지" width="420">
+
 - 🧾 폼세라믹 50T FULL 파티션
 - 🧾 600×600 타일
 - ✅ 줄눈: **케라폭시**
 - ✅ 휴젠트 노바
+
+<img src="https://image2.lotteimall.com/goods/60/99/85/12859960_1.jpg" alt="힘펠 휴젠트 노바" width="420">
+
 - ⬜ 라인유가 사양: SUS304, 탈착 거름망, 트랩 접근성, 배수관 규격 등 확인 필요
 
 ---
@@ -163,6 +182,8 @@
 # 8. 안방 욕실
 
 - ✅ 욕실건 설치 **(과장님 서비스)**
+
+<img src="https://m.e-nuovo.co.kr/web/product/big/202306/bdd4239da76567ff3936a822fe033b2e.jpg" alt="니켈 욕실건 참고 이미지" width="420">
 - ✅ **전체 철거** **(완료)**
 - ✅ **2차 방수**
 - 🟡 타일: **팀세라믹 605번** 현재 후보
@@ -173,6 +194,9 @@
 - 🧾 600×600 타일
 - ✅ 줄눈: **케라폭시**
 - 🧾 휴젠트 노바 추가
+
+<img src="https://image2.lotteimall.com/goods/60/99/85/12859960_1.jpg" alt="힘펠 휴젠트 노바" width="420">
+
 - 📐 욕실 치수 메모: **변기쪽 실제 공간 1500mm**
 
 ---
@@ -222,7 +246,13 @@
 - ✅ 기존 전체 조명 철거 **(완료)**
 - 🧾 기초 전기 배선
 - 🧾 **르그랑 아펠라** 스위치/콘센트
+
+<img src="https://img.danawa.com/prod_img/500000/938/874/img/8874938_1.jpg?_v=20210811100953" alt="르그랑 아펠라 스위치" width="420">
+
 - 🧾 2~3인치 다운라이트 60개
+- ✅ 거실 다운라이트: **칸트라이팅 K9-55 NICKEL**
+
+<img src="https://zinosms1.godohosting.com/editor/lamp/led_cob_art_downlight_8w_01.jpg" alt="K9-55 NICKEL 2인치 다운라이트 참고 이미지" width="420">
 - 🧾 화재감지기, 발코니 직부등, 기타 센서/스피커/가스경보기
 - 🧾 인덕션 단독 배선
 - 🟡 거실 스위치는 벽 코너 쪽 배치를 검토
