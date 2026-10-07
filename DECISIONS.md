@@ -132,11 +132,13 @@
 - ✅ **한샘 무선 풋터치 절수페달 HRD-HS200WL/C** 사용 방향
 
 <img src="https://img.danuri.io/catalog-image/896/238/104/d3c3a75f98724e07afd627246930ee84.jpg?_v=20260825080545&shrink=330%3A%2A" alt="한샘 HRD-HS200WL/C 무선 풋터치 절수페달" width="420">
+
 - 참고: https://prod.danawa.com/info/?pcode=104238896
 - 🧾 라우체 피오 수전
 - 🧾 한샘 CGD84E 클린엠보 사각 싱크볼
 
 <img src="https://xn--or3bi2dnd588f.com/data/editor/2412/4b026d25b72c30ba2e3d33b8ce3fdcb1_1733814213_6573.jpg" alt="한샘 CGD84E 클린엠보 싱크볼 시공 이미지" width="420">
+
 - 한샘 참고: https://mall.hanssem.com/homeIdeaMain/contents/homeIdeaDetail.do?seq=28732
 - ⬜ 수전 본체와 싱크볼이 견적 사양 그대로 최종인지 확인 필요
 
