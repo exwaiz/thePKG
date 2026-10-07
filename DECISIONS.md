@@ -97,7 +97,9 @@
 - ✅ 실링팬: **루씨에어 레이더3 실링팬 크롬다크코코아**
 
 <img src="https://static-store.lge.co.kr/goods/org/946/260618000232946.jpg?ah=1&aw=1&rh=800&rw=800" alt="루씨에어 레이더3 크롬다크코코아" width="420">
+
 - 제품정보: https://visrova.com/product/%EB%A3%A8%EC%94%A8%EC%97%90%EC%96%B4-%EB%A0%88%EC%9D%B4%EB%8D%943-%EC%8B%A4%EB%A7%81%ED%8C%AC-132cm-%ED%81%AC%EB%A1%AC%EB%8B%A4%ED%81%AC%EC%BD%94%EC%BD%94%EC%95%84-%EC%B2%9C%EC%9E%A5%ED%98%95-%EC%84%A0%ED%92%8D%EA%B8%B0/1822/?srsltid=AU7gw4XHSdVUDoSz20wggPCgT1RwYrq8zlZxd0l6SB-1cJeyEfl-Elms
+
 - ✅ TV 뒤 아트월: **코너만 살짝 라운드 처리**
 - ✅ 원처럼 크게 둥근 라운드 형태는 아님
 - ⬜ 우물천장 형태: **사각형 vs 원형/라운드**
