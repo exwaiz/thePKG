@@ -133,7 +133,6 @@
 <img src="https://xn--or3bi2dnd588f.com/data/editor/2412/4b026d25b72c30ba2e3d33b8ce3fdcb1_1733814213_6573.jpg" alt="한샘 CGD84E 클린엠보 싱크볼 시공 이미지" width="420">
 
 - 한샘 참고: https://mall.hanssem.com/homeIdeaMain/contents/homeIdeaDetail.do?seq=28732
-- ⬜ 수전 본체와 싱크볼이 견적 사양 그대로 최종인지 확인 필요
 
 ## 인덕션 / 후드
 - ✅ **설치 위치는 기존 좌측 구석에서 우측 구석으로 이동하기로 결정**
