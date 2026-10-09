@@ -253,7 +253,7 @@
 - 🧾 2~3인치 다운라이트 60개
 - ✅ 거실 다운라이트: **칸트라이팅 K9-55 NICKEL**
 
-<img src="https://shopping-phinf.pstatic.net/main_1368645/13686454981.jpg" alt="칸트라이팅 K9-55 NICKEL" width="420">
+<img src="./assets/k9-55-nickel.jpg" alt="칸트라이팅 K9-55 NICKEL" width="420">
 
 - 🧾 화재감지기, 발코니 직부등, 기타 센서/스피커/가스경보기
 - 🧾 인덕션 단독 배선
