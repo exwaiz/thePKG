@@ -170,7 +170,7 @@
 - ✅ **2차 방수**
 - ✅ 배수: **라인유가**
 
-<img src="https://cdn.shopify.com/s/files/1/0250/1767/9951/files/a07b903d0b58a79931cfdc305588491a_480x.jpg?v=1747898343" alt="욕실 라인유가 참고 이미지" width="420">
+<img src="./assets/domus-line-drain.png" alt="도무스 라인 유가 SUS304 제품 참고 사진" width="660">
 
 - 🧾 폼세라믹 50T FULL 파티션
 - 🧾 600×600 타일
