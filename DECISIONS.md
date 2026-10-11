@@ -234,7 +234,7 @@
   - 적용 위치: **안방 욕실 샤워부**
   - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=7297&cate_no=26&display_group=1
 
-<img src="https://m.e-nuovo.co.kr/web/product/extra/big/202506/4de401087f6bd4a36add8bb1ced1902c.jpg" alt="에떼르노 E8-1005NBM 니켈 샤워욕조수전" width="420">
+<img src="https://yes365mall.com/web/product/small/202511/b6f8dae561ef151e179146250628effc.jpg" alt="에떼르노 E8-1005NBM 니켈 샤워욕조수전" width="420">
 
 - ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
   - 품번: **CCASF516**
