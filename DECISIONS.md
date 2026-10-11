@@ -162,6 +162,13 @@
 
 # 7. 공용 욕실
 
+- ✅ 세면 수전: **아메리칸스탠다드 리비어 원홀 세면수전**
+  - 모델명: **FA1614-0KAKA11AA**
+  - 마감: **무광 니켈 / 사틴 헤어라인**
+  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=5872&cate_no=231&display_group=1
+
+<img src="https://godomall-storage.cdn-nhncommerce.com/209718e2adf34a4689b95d6dd1645977/goods/1000000579/image/detail/1000000579_detail_045.jpg" alt="아메리칸스탠다드 리비어 원홀 세면수전 FA1614-0KAKA11AA 사틴 헤어라인" width="420">
+
 - ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
   - 품번: **CCASF516**
   - 치수: **L455 × W545 × H410**
@@ -198,6 +205,13 @@
 ---
 
 # 8. 안방 욕실
+
+- ✅ 세면 수전: **아메리칸스탠다드 리비어 원홀 세면수전**
+  - 모델명: **FA1614-0KAKA11AA**
+  - 마감: **무광 니켈 / 사틴 헤어라인**
+  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=5872&cate_no=231&display_group=1
+
+<img src="https://godomall-storage.cdn-nhncommerce.com/209718e2adf34a4689b95d6dd1645977/goods/1000000579/image/detail/1000000579_detail_045.jpg" alt="아메리칸스탠다드 리비어 원홀 세면수전 FA1614-0KAKA11AA 사틴 헤어라인" width="420">
 
 - ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
   - 품번: **CCASF516**
