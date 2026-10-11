@@ -213,6 +213,13 @@
 
 <img src="https://godomall-storage.cdn-nhncommerce.com/209718e2adf34a4689b95d6dd1645977/goods/1000000579/image/detail/1000000579_detail_045.jpg" alt="아메리칸스탠다드 리비어 원홀 세면수전 FA1614-0KAKA11AA 사틴 헤어라인" width="420">
 
+- ✅ 샤워 수전: **하츠 RSFC-N252S 3way 모던S 레인 샤워 욕조 수전**
+  - 모델명: **RSFC-N252S**
+  - 마감: **니켈**
+  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=7887&cate_no=26&display_group=1
+
+<img src="https://m.e-nuovo.co.kr/web/product/big/202512/50bcb3e3cffc70f2acf2f722de3251a7.jpg" alt="하츠 RSFC-N252S 3way 모던S 레인 샤워 욕조 수전 니켈" width="420">
+
 - ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
   - 품번: **CCASF516**
   - 치수: **L455 × W545 × H410**
