@@ -169,6 +169,13 @@
 
 <img src="https://godomall-storage.cdn-nhncommerce.com/209718e2adf34a4689b95d6dd1645977/goods/1000000579/image/detail/1000000579_detail_045.jpg" alt="아메리칸스탠다드 리비어 원홀 세면수전 FA1614-0KAKA11AA 사틴 헤어라인" width="420">
 
+- ✅ 샤워/욕조 수전: **비반트 CA600 BS 니켈 샤워 욕조 수전**
+  - 모델명: **CA600 BS**
+  - 마감: **니켈**
+  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=7516&cate_no=26&display_group=1
+
+<img src="https://m.e-nuovo.co.kr/web/product/big/202507/8d71d3ca7154f6f97e061b20ce26135e.jpg" alt="비반트 CA600 BS 니켈 샤워 욕조 수전" width="420">
+
 - ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
   - 품번: **CCASF516**
   - 치수: **L455 × W545 × H410**
