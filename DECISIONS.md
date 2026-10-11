@@ -171,6 +171,10 @@
 
 <img src="https://bathday.kr/media/pimage/2024/03/08/%ED%94%8C%EB%9E%AB%EC%82%AC%ED%8B%B4%EC%88%98%EA%B1%B4%EA%B1%B8%EC%9D%B4_m.jpg" alt="아메리칸스탠다드 플랫 수건걸이 FH1051-0KAK460AH 사틴 헤어라인 600mm" width="420">
 
+- ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
+  - 품번: **CCASF516**
+  - 공식 제품: https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_product=43&v_cate1=3&v_cate2=16
+
 <img src="https://m.e-nuovo.co.kr/web/product/big/202306/bdd4239da76567ff3936a822fe033b2e.jpg" alt="니켈 욕실건 참고 이미지" width="420">
 
 - ✅ 현관 + 공용욕실 + 안방욕실 **케라폭시 줄눈 추가 옵션: 2,000,000원**
@@ -202,6 +206,10 @@
   - 길이: **600mm**
 
 <img src="https://bathday.kr/media/pimage/2024/03/08/%ED%94%8C%EB%9E%AB%EC%82%AC%ED%8B%B4%EC%88%98%EA%B1%B4%EA%B1%B8%EC%9D%B4_m.jpg" alt="아메리칸스탠다드 플랫 수건걸이 FH1051-0KAK460AH 사틴 헤어라인 600mm" width="420">
+
+- ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
+  - 품번: **CCASF516**
+  - 공식 제품: https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_product=43&v_cate1=3&v_cate2=16
 
 <img src="https://m.e-nuovo.co.kr/web/product/big/202306/bdd4239da76567ff3936a822fe033b2e.jpg" alt="니켈 욕실건 참고 이미지" width="420">
 - ✅ **전체 철거** **(완료)**
