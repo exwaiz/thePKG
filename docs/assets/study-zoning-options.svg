@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760">
+<rect width="1200" height="760" fill="#f4f5f3"/>
+<style>
+.t{font-family:'Noto Sans KR','Malgun Gothic',sans-serif;fill:#263238}.h{font-size:22px;font-weight:750}.s{font-size:14px;fill:#5c6770}.zone{font-size:21px;font-weight:750}.w{stroke:#55afd9;stroke-width:10;stroke-linecap:round}.edge{fill:#e3e8e6;stroke:#34414b;stroke-width:6;stroke-linejoin:round}.door{stroke:#6d8e82;stroke-width:3;fill:none;stroke-dasharray:7 6}.ac{fill:#9bcddd;stroke:#397996;stroke-width:2}
+</style>
+<text x="45" y="43" class="t h" font-size="28">오드카운티 서재 A/B 공간분리 비교 (개념도)</text>
+<text x="45" y="70" class="t s">좌 A = 싱글침대 + 운동 / 우 B = 컴퓨터 작업실 · 좌우 개별 통창 · 시스템에어컨은 B 오른쪽 상부</text>
+<defs>
+<g id="base">
+<path class="edge" d="M20 94 H230 V36 H525 V262 H20 Z"/>
+<path class="w" d="M36 94 H210 M247 36 H505"/>
+<rect class="ac" x="510" y="105" width="12" height="54" rx="2"/>
+<text x="108" y="145" class="t zone" text-anchor="middle">A</text>
+<text x="375" y="145" class="t zone" text-anchor="middle">B</text>
+<text x="108" y="163" class="t s" text-anchor="middle">침대 · 운동</text>
+<text x="375" y="163" class="t s" text-anchor="middle">책상 · PC</text>
+<rect x="39" y="182" width="95" height="42" rx="5" fill="#b4bec8" stroke="#7d8994"/>
+<rect x="45" y="187" width="27" height="32" rx="5" fill="#e9eef1"/>
+<rect x="333" y="60" width="84" height="30" rx="4" fill="#947e6c" stroke="#655344"/>
+<path class="door" d="M235 206 Q235 222 257 222"/>
+<text x="514" y="98" class="t s" text-anchor="end">AC</text>
+</g>
+</defs>
+<g transform="translate(35 95)">
+<rect x="0" y="0" width="555" height="310" rx="16" fill="#fff" stroke="#d6ddda"/>
+<text x="20" y="27" class="t h">01 · 낮은 수납장 / 하프월</text>
+<g transform="translate(0 29) scale(.96)"><use href="#base"/>
+<rect x="225" y="94" width="14" height="120" rx="3" fill="#445660"/><path d="M233 215 H270" stroke="#a1aeb5" stroke-width="3" stroke-dasharray="4 6"/>
+</g></g>
+<g transform="translate(610 95)">
+<rect x="0" y="0" width="555" height="310" rx="16" fill="#fff" stroke="#d6ddda"/>
+<text x="20" y="27" class="t h">02 · 오픈 선반 / 모듈 책장</text>
+<g transform="translate(0 29) scale(.96)"><use href="#base"/>
+<rect x="217" y="94" width="34" height="118" fill="#353d43"/>
+<g stroke="#c0c8cd" stroke-width="3"><path d="M219 125 H249 M219 155 H249 M219 185 H249 M232 95 V212"/></g>
+</g></g>
+<g transform="translate(35 420)">
+<rect x="0" y="0" width="555" height="310" rx="16" fill="#fff" stroke="#d6ddda"/>
+<text x="20" y="27" class="t h">03 · 무광 블랙 메탈 / 타공메쉬</text>
+<g transform="translate(0 29) scale(.96)"><use href="#base"/>
+<rect x="217" y="94" width="30" height="118" fill="#252d32" opacity=".95"/>
+<g stroke="#a1aaae" stroke-width="1.8"><path d="M220 100 L243 120 M220 116 L243 136 M220 132 L243 152 M220 148 L243 168 M220 164 L243 184 M220 180 L243 200 M220 196 L236 210 M243 100 L220 120 M243 116 L220 136 M243 132 L220 152 M243 148 L220 168 M243 164 L220 184 M243 180 L220 200"/></g>
+</g></g>
+<g transform="translate(610 420)">
+<rect x="0" y="0" width="555" height="310" rx="16" fill="#fff" stroke="#d6ddda"/>
+<text x="20" y="27" class="t h">04 · 천장 레일 / 커튼</text>
+<g transform="translate(0 29) scale(.96)"><use href="#base"/>
+<path d="M231 95 V210" stroke="#545b68" stroke-width="14" stroke-dasharray="11 6" opacity=".8"/>
+<circle cx="231" cy="110" r="4" fill="#e3b881"/>
+</g></g>
+<text x="45" y="752" class="t s">※ 비례 실측도 아님. 바람길·문 간섭·안전 고정은 별도 확인. 디자인 탐색용 자작 다이어그램.</text>
+</svg>
