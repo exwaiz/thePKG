@@ -183,6 +183,15 @@
 
 <img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=43&v_product_img=4340" alt="아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기 CCASF516" width="420">
 
+- ✅ 양변기: **아메리칸스탠다드 SIGNATURE 2PC 시그니처 림리스 투피스 양변기**
+  - 세트 품번: **CCAS3880-1100410K0**
+  - 하부: **CCAS3880**
+  - 탱크: **CCAS4880**
+  - 시공치수: **305mm**
+  - 공식 제품: https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_cate1=1&v_cate2=11&v_product=428
+
+<img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=428&v_product_img=4734" alt="아메리칸스탠다드 SIGNATURE 2PC 시그니처 림리스 투피스 양변기 CCAS3880-1100410K0" width="420">
+
 - ✅ 욕실건 설치 **(과장님 서비스)**
 
 - ✅ 수건걸이: **아메리칸스탠다드 플랫**
@@ -250,6 +259,15 @@
   - 공식 제품: https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_product=43&v_cate1=3&v_cate2=16
 
 <img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=43&v_product_img=4340" alt="아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기 CCASF516" width="420">
+
+- ✅ 양변기: **아메리칸스탠다드 SIGNATURE 2PC 시그니처 림리스 투피스 양변기**
+  - 세트 품번: **CCAS3880-1100410K0**
+  - 하부: **CCAS3880**
+  - 탱크: **CCAS4880**
+  - 시공치수: **305mm**
+  - 공식 제품: https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_cate1=1&v_cate2=11&v_product=428
+
+<img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=428&v_product_img=4734" alt="아메리칸스탠다드 SIGNATURE 2PC 시그니처 림리스 투피스 양변기 CCAS3880-1100410K0" width="420">
 
 - ✅ 욕실건 설치 **(과장님 서비스)**
 
@@ -492,7 +510,7 @@
 ## 안방 욕실
 - [ ] 팀세라믹 605번 최종 확정
 - [ ] 사제 세면대 20만원대 모델
-- [ ] 사제 변기 30만원대 모델
+- [x] 양변기: **아메리칸스탠다드 시그니처 림리스 투피스 CCAS3880-1100410K0**
 - [ ] 견적 욕실 패키지에서 도기/수전 중복 금액 감액 요청
 - [ ] '변기쪽 1500mm' 치수를 도면에 정확히 반영
 
@@ -514,7 +532,7 @@
 # 15. 아직 모델/제품이 필요한 품목
 
 - ⬜ 사제 세면대
-- ⬜ 사제 변기
+- ✅ 양변기: **아메리칸스탠다드 시그니처 림리스 투피스 CCAS3880-1100410K0**
 - ⬜ 라인유가
 - ⬜ 주방/현관 1200 타일
 - ✅ 시스템에어컨 실내기 구성 / 모델: AJ072BN1PBC1
