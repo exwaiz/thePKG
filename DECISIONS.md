@@ -202,11 +202,10 @@
 
 <img src="https://m.e-nuovo.co.kr/web/product/big/202304/5ee6b143fa84a5e37db724f6cee2a467.jpg" alt="아메리칸스탠다드 플랫 수건걸이 FH1051-0KAK460AH 사틴 헤어라인 600mm" width="420">
 
-- ✅ 휴지걸이: **아메리칸스탠다드 ACTIVE 액티브 휴지걸이**
-  - 모델명: **FH1058-0GAK450AW**
-  - 공식 제품: https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_cate1=7&v_cate2=34&v_product=239
+- ✅ 휴지걸이: **[아메리칸스탠다드] 액티브 휴지걸이 FH1058-0GAK450AW**
+  - 제품 링크: https://ypspace.co.kr/product/d33b5aad-902d-4618-8aca-d7d7f0a77fa6
 
-<img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=239&v_product_img=4914" alt="아메리칸스탠다드 ACTIVE 액티브 휴지걸이 FH1058-0GAK450AW" width="420">
+<img src="https://contents.sixshop.com/uploadedFiles/129281/product/image_1671089975073.png" alt="[아메리칸스탠다드] 액티브 휴지걸이 FH1058-0GAK450AW" width="420">
 
 - ✅ 현관 + 공용욕실 + 안방욕실 **케라폭시 줄눈 추가 옵션: 2,000,000원**
 - ✅ **전체 철거** **(완료)**
@@ -279,11 +278,10 @@
 
 <img src="https://m.e-nuovo.co.kr/web/product/big/202304/5ee6b143fa84a5e37db724f6cee2a467.jpg" alt="아메리칸스탠다드 플랫 수건걸이 FH1051-0KAK460AH 사틴 헤어라인 600mm" width="420">
 
-- ✅ 휴지걸이: **아메리칸스탠다드 ACTIVE 액티브 휴지걸이**
-  - 모델명: **FH1058-0GAK450AW**
-  - 공식 제품: https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_cate1=7&v_cate2=34&v_product=239
+- ✅ 휴지걸이: **[아메리칸스탠다드] 액티브 휴지걸이 FH1058-0GAK450AW**
+  - 제품 링크: https://ypspace.co.kr/product/d33b5aad-902d-4618-8aca-d7d7f0a77fa6
 
-<img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=239&v_product_img=4914" alt="아메리칸스탠다드 ACTIVE 액티브 휴지걸이 FH1058-0GAK450AW" width="420">
+<img src="https://contents.sixshop.com/uploadedFiles/129281/product/image_1671089975073.png" alt="[아메리칸스탠다드] 액티브 휴지걸이 FH1058-0GAK450AW" width="420">
 
 - ✅ **전체 철거** **(완료)**
 - ✅ **2차 방수**
