@@ -189,8 +189,9 @@
   - 모델명: **FH1051-0KAK460AH**
   - 마감: **사틴 헤어라인**
   - 길이: **600mm**
+  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=5526&cate_no=27&display_group=1
 
-<img src="https://bathday.kr/media/pimage/2024/03/08/%ED%94%8C%EB%9E%AB%EC%82%AC%ED%8B%B4%EC%88%98%EA%B1%B4%EA%B1%B8%EC%9D%B4_m.jpg" alt="아메리칸스탠다드 플랫 수건걸이 FH1051-0KAK460AH 사틴 헤어라인 600mm" width="420">
+<img src="https://m.e-nuovo.co.kr/web/product/big/202304/5ee6b143fa84a5e37db724f6cee2a467.jpg" alt="아메리칸스탠다드 플랫 수건걸이 FH1051-0KAK460AH 사틴 헤어라인 600mm" width="420">
 
 - ✅ 휴지걸이: **아메리칸스탠다드 ACTIVE 액티브 휴지걸이**
   - 모델명: **FH1058-0GAK450AW**
@@ -256,8 +257,9 @@
   - 모델명: **FH1051-0KAK460AH**
   - 마감: **사틴 헤어라인**
   - 길이: **600mm**
+  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=5526&cate_no=27&display_group=1
 
-<img src="https://bathday.kr/media/pimage/2024/03/08/%ED%94%8C%EB%9E%AB%EC%82%AC%ED%8B%B4%EC%88%98%EA%B1%B4%EA%B1%B8%EC%9D%B4_m.jpg" alt="아메리칸스탠다드 플랫 수건걸이 FH1051-0KAK460AH 사틴 헤어라인 600mm" width="420">
+<img src="https://m.e-nuovo.co.kr/web/product/big/202304/5ee6b143fa84a5e37db724f6cee2a467.jpg" alt="아메리칸스탠다드 플랫 수건걸이 FH1051-0KAK460AH 사틴 헤어라인 600mm" width="420">
 
 - ✅ 휴지걸이: **아메리칸스탠다드 ACTIVE 액티브 휴지걸이**
   - 모델명: **FH1058-0GAK450AW**
