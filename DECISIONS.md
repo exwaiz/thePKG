@@ -176,6 +176,11 @@
 
 <img src="https://m.e-nuovo.co.kr/web/product/big/202507/8d71d3ca7154f6f97e061b20ce26135e.jpg" alt="비반트 CA600 BS 니켈 샤워 욕조 수전" width="420">
 
+- ✅ 샤워부 슬라이드바: **[비반트] S-TB307 MS 니켈 사각 슬라이드바**
+  - 모델명: **S-TB307 MS**
+  - 수량: **1개**
+  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/%EB%B9%84%EB%B0%98%ED%8A%B8-s-tb307-ms-%EB%8B%88%EC%BC%88-%EC%82%AC%EA%B0%81-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%B0%94/6314/#none)
+
 - ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
   - 품번: **CCASF516**
   - 치수: **L455 × W545 × H410**
@@ -217,10 +222,6 @@
 - 🧾 폼세라믹 50T FULL 파티션
 - ✅ 샤워부스 단차: **1cm**
 
-- ✅ 슬라이드바: **[비반트] S-TB307 MS 니켈 사각 슬라이드바**
-  - 모델명: **S-TB307 MS**
-  - 수량: **1개**
-  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/%EB%B9%84%EB%B0%98%ED%8A%B8-s-tb307-ms-%EB%8B%88%EC%BC%88-%EC%82%AC%EA%B0%81-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%B0%94/6314/#none)
 - 🧾 600×600 타일
 - ✅ 줄눈: **케라폭시**
 - ✅ 휴젠트 노바
@@ -249,6 +250,11 @@
 
 <img src="https://yes365mall.com/web/product/small/202511/b6f8dae561ef151e179146250628effc.jpg" alt="에떼르노 E8-1005NBM 니켈 샤워욕조수전" width="420">
 
+- ✅ 욕조부 슬라이드바: **[비반트] S-TB307 MS 니켈 사각 슬라이드바**
+  - 모델명: **S-TB307 MS**
+  - 수량: **1개**
+  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/%EB%B9%84%EB%B0%98%ED%8A%B8-s-tb307-ms-%EB%8B%88%EC%BC%88-%EC%82%AC%EA%B0%81-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%B0%94/6314/#none)
+
 - ✅ 샤워 수전: **에떼르노 E8-1005NBM 니켈 샤워욕조수전**
   - 모델명: **E8-1005NBM**
   - 마감: **니켈**
@@ -256,6 +262,11 @@
   - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/detail.html?product_no=7297&cate_no=26&display_group=1)
 
 <img src="https://yes365mall.com/web/product/small/202511/b6f8dae561ef151e179146250628effc.jpg" alt="에떼르노 E8-1005NBM 니켈 샤워욕조수전" width="420">
+
+- ✅ 샤워부 슬라이드바: **[비반트] S-TB307 MS 니켈 사각 슬라이드바**
+  - 모델명: **S-TB307 MS**
+  - 수량: **1개**
+  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/%EB%B9%84%EB%B0%98%ED%8A%B8-s-tb307-ms-%EB%8B%88%EC%BC%88-%EC%82%AC%EA%B0%81-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%B0%94/6314/#none)
 
 - ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
   - 품번: **CCASF516**
@@ -297,10 +308,6 @@
 - ✅ 폼세라믹 **80T FULL 파티션**
 - ✅ 샤워부스 단차: **1cm**
 
-- ✅ 슬라이드바: **[비반트] S-TB307 MS 니켈 사각 슬라이드바**
-  - 모델명: **S-TB307 MS**
-  - 수량: **2개**
-  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/%EB%B9%84%EB%B0%98%ED%8A%B8-s-tb307-ms-%EB%8B%88%EC%BC%88-%EC%82%AC%EA%B0%81-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%B0%94/6314/#none)
 - 🧾 600×600 타일
 - ✅ 줄눈: **케라폭시**
 - 🧾 휴젠트 노바 추가
