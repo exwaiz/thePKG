@@ -236,13 +236,13 @@
 
 <img src="https://godomall-storage.cdn-nhncommerce.com/209718e2adf34a4689b95d6dd1645977/goods/1000000579/image/detail/1000000579_detail_045.jpg" alt="아메리칸스탠다드 리비어 원홀 세면수전 FA1614-0KAKA11AA 사틴 헤어라인" width="420">
 
-- ✅ 욕조 수전: **하츠 RSFC-N252S 3way 모던S 레인 샤워 욕조 수전**
-  - 모델명: **RSFC-N252S**
+- ✅ 욕조부 수전: **에떼르노 E8-1005NBM 니켈 샤워욕조수전**
+  - 모델명: **E8-1005NBM**
   - 마감: **니켈**
   - 적용 위치: **안방 욕실 욕조부**
-  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/detail.html?product_no=7887&cate_no=26&display_group=1)
+  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/detail.html?product_no=7297&cate_no=26&display_group=1)
 
-<img src="https://m.e-nuovo.co.kr/web/product/big/202512/50bcb3e3cffc70f2acf2f722de3251a7.jpg" alt="하츠 RSFC-N252S 3way 모던S 레인 샤워 욕조 수전 니켈" width="420">
+<img src="https://yes365mall.com/web/product/small/202511/b6f8dae561ef151e179146250628effc.jpg" alt="에떼르노 E8-1005NBM 니켈 샤워욕조수전" width="420">
 
 - ✅ 샤워 수전: **에떼르노 E8-1005NBM 니켈 샤워욕조수전**
   - 모델명: **E8-1005NBM**
