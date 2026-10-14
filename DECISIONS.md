@@ -101,7 +101,7 @@
 
 <img src="https://static-store.lge.co.kr/goods/org/946/260618000232946.jpg?ah=1&aw=1&rh=800&rw=800" alt="루씨에어 레이더3 크롬다크코코아" width="420">
 
-- 제품정보: https://visrova.com/product/%EB%A3%A8%EC%94%A8%EC%97%90%EC%96%B4-%EB%A0%88%EC%9D%B4%EB%8D%943-%EC%8B%A4%EB%A7%81%ED%8C%AC-132cm-%ED%81%AC%EB%A1%AC%EB%8B%A4%ED%81%AC%EC%BD%94%EC%BD%94%EC%95%84-%EC%B2%9C%EC%9E%A5%ED%98%95-%EC%84%A0%ED%92%8D%EA%B8%B0/1822/?srsltid=AU7gw4XHSdVUDoSz20wggPCgT1RwYrq8zlZxd0l6SB-1cJeyEfl-Elms
+- 제품정보: [링크클릭](https://visrova.com/product/%EB%A3%A8%EC%94%A8%EC%97%90%EC%96%B4-%EB%A0%88%EC%9D%B4%EB%8D%943-%EC%8B%A4%EB%A7%81%ED%8C%AC-132cm-%ED%81%AC%EB%A1%AC%EB%8B%A4%ED%81%AC%EC%BD%94%EC%BD%94%EC%95%84-%EC%B2%9C%EC%9E%A5%ED%98%95-%EC%84%A0%ED%92%8D%EA%B8%B0/1822/?srsltid=AU7gw4XHSdVUDoSz20wggPCgT1RwYrq8zlZxd0l6SB-1cJeyEfl-Elms)
 
 - ✅ 우물천장: **코너만 원형 처리**
 
@@ -131,7 +131,7 @@
 
 <img src="https://img.danuri.io/catalog-image/896/238/104/d3c3a75f98724e07afd627246930ee84.jpg?_v=20260825080545&shrink=330%3A%2A" alt="한샘 HRD-HS200WL/C 무선 풋터치 절수페달" width="420">
 
-- 참고: https://prod.danawa.com/info/?pcode=104238896
+- 참고: [링크클릭](https://prod.danawa.com/info/?pcode=104238896)
 - 🧾 라우체 피오 수전
 
 <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/721b/3bea44009f52ed1bcd55f4e0def915ef3eca384437d466c10cb1dfe6839a.jpg" alt="라우체 피오 수전" width="420">
@@ -140,7 +140,7 @@
 
 <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e475/482b313cd553a04de72d9fb1ebb844030af4c514039211442b34ce9b110d.jpg" alt="한샘 CGD84E 클린엠보 사각 싱크볼" width="420">
 
-- 한샘 참고: https://mall.hanssem.com/homeIdeaMain/contents/homeIdeaDetail.do?seq=28732
+- 한샘 참고: [링크클릭](https://mall.hanssem.com/homeIdeaMain/contents/homeIdeaDetail.do?seq=28732)
 
 ### 인덕션 / 후드
 - ✅ **설치 위치는 기존 좌측 구석에서 우측 구석으로 이동하기로 결정**
@@ -165,21 +165,21 @@
 - ✅ 세면 수전: **아메리칸스탠다드 리비어 원홀 세면수전**
   - 모델명: **FA1614-0KAKA11AA**
   - 마감: **무광 니켈 / 사틴 헤어라인**
-  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=5872&cate_no=231&display_group=1
+  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/detail.html?product_no=5872&cate_no=231&display_group=1)
 
 <img src="https://godomall-storage.cdn-nhncommerce.com/209718e2adf34a4689b95d6dd1645977/goods/1000000579/image/detail/1000000579_detail_045.jpg" alt="아메리칸스탠다드 리비어 원홀 세면수전 FA1614-0KAKA11AA 사틴 헤어라인" width="420">
 
 - ✅ 샤워/욕조 수전: **비반트 CA600 BS 니켈 샤워 욕조 수전**
   - 모델명: **CA600 BS**
   - 마감: **니켈**
-  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=7516&cate_no=26&display_group=1
+  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/detail.html?product_no=7516&cate_no=26&display_group=1)
 
 <img src="https://m.e-nuovo.co.kr/web/product/big/202507/8d71d3ca7154f6f97e061b20ce26135e.jpg" alt="비반트 CA600 BS 니켈 샤워 욕조 수전" width="420">
 
 - ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
   - 품번: **CCASF516**
   - 치수: **L455 × W545 × H410**
-  - 공식 제품: https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_product=43&v_cate1=3&v_cate2=16
+  - 공식 제품: [링크클릭](https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_product=43&v_cate1=3&v_cate2=16)
 
 <img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=43&v_product_img=4340" alt="아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기 CCASF516" width="420">
 
@@ -188,7 +188,7 @@
   - 하부: **CCAS3880**
   - 탱크: **CCAS4880**
   - 시공치수: **305mm**
-  - 공식 제품: https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_cate1=1&v_cate2=11&v_product=428
+  - 공식 제품: [링크클릭](https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_cate1=1&v_cate2=11&v_product=428)
 
 <img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=428&v_product_img=4734" alt="아메리칸스탠다드 SIGNATURE 2PC 시그니처 림리스 투피스 양변기 CCAS3880-1100410K0" width="420">
 
@@ -198,12 +198,12 @@
   - 모델명: **FH1051-0KAK460AH**
   - 마감: **사틴 헤어라인**
   - 길이: **600mm**
-  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=5526&cate_no=27&display_group=1
+  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/detail.html?product_no=5526&cate_no=27&display_group=1)
 
 <img src="https://m.e-nuovo.co.kr/web/product/big/202304/5ee6b143fa84a5e37db724f6cee2a467.jpg" alt="아메리칸스탠다드 플랫 수건걸이 FH1051-0KAK460AH 사틴 헤어라인 600mm" width="420">
 
 - ✅ 휴지걸이: **[아메리칸스탠다드] 액티브 휴지걸이 FH1058-0GAK450AW**
-  - 제품 링크: https://ypspace.co.kr/product/d33b5aad-902d-4618-8aca-d7d7f0a77fa6
+  - 제품 링크: [링크클릭](https://ypspace.co.kr/product/d33b5aad-902d-4618-8aca-d7d7f0a77fa6)
 
 <img src="https://contents.sixshop.com/uploadedFiles/129281/product/image_1671089975073.png" alt="[아메리칸스탠다드] 액티브 휴지걸이 FH1058-0GAK450AW" width="420">
 
@@ -232,7 +232,7 @@
   - 모델명: **FA1614-0KAKA11AA**
   - 마감: **무광 니켈 / 사틴 헤어라인**
   - 적용: **공용 욕실과 동일 제품**
-  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=5872&cate_no=231&display_group=1
+  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/detail.html?product_no=5872&cate_no=231&display_group=1)
 
 <img src="https://godomall-storage.cdn-nhncommerce.com/209718e2adf34a4689b95d6dd1645977/goods/1000000579/image/detail/1000000579_detail_045.jpg" alt="아메리칸스탠다드 리비어 원홀 세면수전 FA1614-0KAKA11AA 사틴 헤어라인" width="420">
 
@@ -240,7 +240,7 @@
   - 모델명: **RSFC-N252S**
   - 마감: **니켈**
   - 적용 위치: **안방 욕실 욕조부**
-  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=7887&cate_no=26&display_group=1
+  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/detail.html?product_no=7887&cate_no=26&display_group=1)
 
 <img src="https://m.e-nuovo.co.kr/web/product/big/202512/50bcb3e3cffc70f2acf2f722de3251a7.jpg" alt="하츠 RSFC-N252S 3way 모던S 레인 샤워 욕조 수전 니켈" width="420">
 
@@ -248,14 +248,14 @@
   - 모델명: **E8-1005NBM**
   - 마감: **니켈**
   - 적용 위치: **안방 욕실 샤워부**
-  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=7297&cate_no=26&display_group=1
+  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/detail.html?product_no=7297&cate_no=26&display_group=1)
 
 <img src="https://yes365mall.com/web/product/small/202511/b6f8dae561ef151e179146250628effc.jpg" alt="에떼르노 E8-1005NBM 니켈 샤워욕조수전" width="420">
 
 - ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
   - 품번: **CCASF516**
   - 치수: **L455 × W545 × H410**
-  - 공식 제품: https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_product=43&v_cate1=3&v_cate2=16
+  - 공식 제품: [링크클릭](https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_product=43&v_cate1=3&v_cate2=16)
 
 <img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=43&v_product_img=4340" alt="아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기 CCASF516" width="420">
 
@@ -264,7 +264,7 @@
   - 하부: **CCAS3880**
   - 탱크: **CCAS4880**
   - 시공치수: **305mm**
-  - 공식 제품: https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_cate1=1&v_cate2=11&v_product=428
+  - 공식 제품: [링크클릭](https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_cate1=1&v_cate2=11&v_product=428)
 
 <img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=428&v_product_img=4734" alt="아메리칸스탠다드 SIGNATURE 2PC 시그니처 림리스 투피스 양변기 CCAS3880-1100410K0" width="420">
 
@@ -274,12 +274,12 @@
   - 모델명: **FH1051-0KAK460AH**
   - 마감: **사틴 헤어라인**
   - 길이: **600mm**
-  - 제품 링크: https://m.e-nuovo.co.kr/product/detail.html?product_no=5526&cate_no=27&display_group=1
+  - 제품 링크: [링크클릭](https://m.e-nuovo.co.kr/product/detail.html?product_no=5526&cate_no=27&display_group=1)
 
 <img src="https://m.e-nuovo.co.kr/web/product/big/202304/5ee6b143fa84a5e37db724f6cee2a467.jpg" alt="아메리칸스탠다드 플랫 수건걸이 FH1051-0KAK460AH 사틴 헤어라인 600mm" width="420">
 
 - ✅ 휴지걸이: **[아메리칸스탠다드] 액티브 휴지걸이 FH1058-0GAK450AW**
-  - 제품 링크: https://ypspace.co.kr/product/d33b5aad-902d-4618-8aca-d7d7f0a77fa6
+  - 제품 링크: [링크클릭](https://ypspace.co.kr/product/d33b5aad-902d-4618-8aca-d7d7f0a77fa6)
 
 <img src="https://contents.sixshop.com/uploadedFiles/129281/product/image_1671089975073.png" alt="[아메리칸스탠다드] 액티브 휴지걸이 FH1058-0GAK450AW" width="420">
 
@@ -310,7 +310,7 @@
 <img src="https://mania1318.cafe24.com/web/product/big/d_511ni_300.jpg" alt="도무스 511NI 니켈 방문손잡이" width="420">
 
 - 검색상 모델 표기: **511NI**
-- 참고: https://ohou.se/productions/feed?query=%EB%8F%84%EB%AC%B4%EC%8A%A4511&type=store
+- 참고: [링크클릭](https://ohou.se/productions/feed?query=%EB%8F%84%EB%AC%B4%EC%8A%A4511&type=store)
 - 🧾 욕실용 ABS 도어 2개
 - 🟡 중문 방식: **슬라이딩**
 - 🟡 중문 세부 사양은 작업 진척상황을 보고 **추후 고객과 최종 결정**
