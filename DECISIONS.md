@@ -1,6 +1,6 @@
 ## 광교 오드카운티 45평 인테리어
 
-기준일: **2026-10-07**
+기준일: **2026-10-20**
 
 ## 1. 프로젝트 기본
 
@@ -136,11 +136,7 @@
 
 <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/721b/3bea44009f52ed1bcd55f4e0def915ef3eca384437d466c10cb1dfe6839a.jpg" alt="라우체 피오 수전" width="420">
 
-- 🧾 한샘 CGD84E 클린엠보 사각 싱크볼
-
-<img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e475/482b313cd553a04de72d9fb1ebb844030af4c514039211442b34ce9b110d.jpg" alt="한샘 CGD84E 클린엠보 사각 싱크볼" width="420">
-
-- 한샘 참고: [링크클릭](https://mall.hanssem.com/homeIdeaMain/contents/homeIdeaDetail.do?seq=28732)
+- ✅ 싱크볼: **한샘 소르젠테 사각싱크볼 CSQ84E** 확정
 
 ### 인덕션 / 후드
 - ✅ **설치 위치는 기존 좌측 구석에서 우측 구석으로 이동하기로 결정**
