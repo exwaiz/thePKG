@@ -230,12 +230,14 @@
 
 <img src="https://m.e-nuovo.co.kr/web/product/big/202407/25c45047994d3dd186855d30cb65713a.jpg" alt="[비반트] S-TB307 MS 니켈 사각 슬라이드바" width="420">
 
-- ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
-  - 품번: **CCASF516**
-  - 치수: **L455 × W545 × H410**
-  - 공식 제품: [링크클릭](https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_product=43&v_cate1=3&v_cate2=16)
+- ✅ 세면기: **아메리칸스탠다드 ACACIA SUPASLEEK 아카시아 슈파슬릭 벽걸이 세면기**
+  - 품번: **CCASF421**
+  - 타입: **벽걸이형**
+  - 치수: **L600 × W450 × H110**
+  - 적용: **공용 욕실 / 안방 욕실 동일 제품**
+  - 공식 제품: [링크클릭](https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_cate1=3&v_cate2=71&v_product=562)
 
-<img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=43&v_product_img=4340" alt="아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기 CCASF516" width="420">
+<img src="https://contents.lotteon.com/itemimage/20260618093915/LO/25/90/18/30/81/_2/59/01/83/08/2/LO2590183081_2590183082_1.jpg" alt="아메리칸스탠다드 ACACIA SUPASLEEK 아카시아 슈파슬릭 벽걸이 세면기 CCASF421" width="420">
 
 - ✅ 양변기: **아메리칸스탠다드 SIGNATURE 2PC 시그니처 림리스 투피스 양변기**
   - 세트 품번: **CCAS3880-1100410K0**
@@ -321,12 +323,14 @@
 
 <img src="https://m.e-nuovo.co.kr/web/product/big/202407/25c45047994d3dd186855d30cb65713a.jpg" alt="[비반트] S-TB307 MS 니켈 사각 슬라이드바" width="420">
 
-- ✅ 세면기: **아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기**
-  - 품번: **CCASF516**
-  - 치수: **L455 × W545 × H410**
-  - 공식 제품: [링크클릭](https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_product=43&v_cate1=3&v_cate2=16)
+- ✅ 세면기: **아메리칸스탠다드 ACACIA SUPASLEEK 아카시아 슈파슬릭 벽걸이 세면기**
+  - 품번: **CCASF421**
+  - 타입: **벽걸이형**
+  - 치수: **L600 × W450 × H110**
+  - 적용: **공용 욕실 / 안방 욕실 동일 제품**
+  - 공식 제품: [링크클릭](https://www.americanstandard.co.kr/main/product.do?proc_type=view&v_cate1=3&v_cate2=71&v_product=562)
 
-<img src="https://www.americanstandard.co.kr/main/product/img.do?v_product=43&v_product_img=4340" alt="아메리칸스탠다드 PLAT 플랫 반다리 일체형 세면기 CCASF516" width="420">
+<img src="https://contents.lotteon.com/itemimage/20260618093915/LO/25/90/18/30/81/_2/59/01/83/08/2/LO2590183081_2590183082_1.jpg" alt="아메리칸스탠다드 ACACIA SUPASLEEK 아카시아 슈파슬릭 벽걸이 세면기 CCASF421" width="420">
 
 - ✅ 양변기: **아메리칸스탠다드 SIGNATURE 2PC 시그니처 림리스 투피스 양변기**
   - 세트 품번: **CCAS3880-1100410K0**
