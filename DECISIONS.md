@@ -203,7 +203,7 @@
 - 공식 제품: [파세코 PHD-FR901M](https://m.paseco.co.kr/goods/goods_view.php?goodsNo=1000000375)
 - 전동댐퍼: [파세코 PHD-AD0113B](https://m.paseco.co.kr/goods/goods_view.php?goodsNo=1000000364)
 
-<img src="https://cdn.jsdelivr.net/gh/exwaiz/thePKG@c54225f826fb1a2e02d0ae165d29dfe787c4470d/assets/paseco-phd-fr901m.jpg" alt="파세코 PHD-FR901M 플랫 실버 라운드 900 침니후드" width="420">
+<img src="https://godomall.speedycdn.net/b104375f4d7e0043e35dd1ef7837f4f3/goods/1000000375/image/detail/1000000375_detail_032.jpg" alt="파세코 PHD-FR901M 플랫 실버 라운드 900 침니후드" width="420">
 
 ---
 
