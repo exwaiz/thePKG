@@ -139,6 +139,11 @@
 
 - ✅ 싱크볼: **한샘 소르젠테 사각싱크볼 CSQ84E** 확정
 
+<img src="https://prs.ohousecdn.com/apne2/content/uploads/cards/project/v1-467750729654400.png?c=c&h=640&w=960" alt="한샘 소르젠테 CSQ84E 적용 주방 시공사례" width="420">
+
+- 한샘 공식 제품: [소르젠테 84 싱크볼(CSQ84E)](https://store.hanssem.com/goods/1139923)
+- 이미지 출처: [한샘 소르젠테 CSQ84E 적용 시공사례](https://contents.ohou.se/projects/190285)
+
 ### 인덕션 / 후드
 - ✅ **설치 위치는 기존 좌측 구석에서 우측 구석으로 이동하기로 결정**
 - 사유: 기존 좌측 구석은 **코너장과 간섭**
